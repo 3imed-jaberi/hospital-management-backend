@@ -1,0 +1,1 @@
+java -cp app:app/lib/ tn.imed.jaberi.hospitalmanagement.HospitalManagementApplication
